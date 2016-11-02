@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.name{
+    color: #fff;
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    position: relative;
+    left: 50%;
+    margin-left: -150px;
+}
+
+
+.yellow{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin-left:100px
+}
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+
+.blue{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    float: left;
+}
+
+.black{
+    clear: both;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+// .black1{
+//     width: 100px;
+//     height: 100px;
+//     background-color: black;
+// }

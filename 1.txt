@@ -1,0 +1,24 @@
+﻿这次作业啊，写一次轮播
+
+要求
+
+
+1. 获取元素用queryselector
+
+2. 执行onclick事件用addEventListener
+
+3. 写一份以getElementById为代表的get事件和以queryselector为代表的query事件的区别
+
+4. 写一份以onclick为代表的on事件和以addEventListener为代表的addEvent事件的区别
+
+5. 作业传github上然后发仓库地址到我的qq
+
+6. 周日晚上24:00之前交
+
+以上6点不满足的就可以不用交作业了，上次作业只有一人交啊，这么简单都不交，我很不开心。
+（大二课比大一少，我讲的比大一多，还做不出来，只能说自己不努力，有问题找我的，每天上课的时候带电脑来，我当面讲，或者每天晚上远程屏幕）
+
+
+
+
+轮播作业参考：http://www.imooc.com/learn/18
